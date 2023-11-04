@@ -9,7 +9,7 @@ body{
     align-items: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: cornflowerblue;
-    background-image: linear-gradient(to bottom right,cornflowerblue,rgb(251, 112, 232),rgba(193, 67, 180, 0.862),cornflowerblue,rgb(251, 112, 232),rgba(193, 67, 180, 0.862),cornflowerblue);
+    background-image: linear-gradient(to bottom right,rgb(15, 23, 37),rgb(34, 15, 32),rgba(45, 16, 42, 0.862),rgb(13, 20, 31),rgb(15, 23, 37),rgb(34, 15, 32),rgba(45, 16, 42, 0.862),rgb(13, 20, 31));
 }
 
 .container{
